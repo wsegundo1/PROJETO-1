@@ -208,18 +208,6 @@ footer p{
 /* Responsividade */
 
 @media (max-width: 1050px){
-    /* Inicio nav */
-    .nav{
-        background-color: #181818;
-        height: 80px;
-        width: 100%;
-        display: flex;
-        justify-content: center;
-        position: sticky;
-        top: 0;
-        z-index: 9;
-    }
-    /* Fim Main */
 
     /* Inicio Main */
     .main h1{
