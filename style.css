@@ -219,7 +219,11 @@ footer p{
         top: 0;
         z-index: 9;
     }
-    /* Fim Main */
+    .nav-list{
+        margin-right: 0;
+    }
+
+    /* Fim nav */
 
     /* Inicio Main */
     .main h1{
@@ -243,8 +247,10 @@ footer p{
     }
     .about div{
         max-width: 80%;
+        text-align: justify;
     }
     .about div h2{
+        text-align: center;
         font-size: 45px;
     }
     .about img{
